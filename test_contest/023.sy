@@ -1,0 +1,6 @@
+//test divc
+int a = 10;
+int main(){
+    int c = a / 5;
+    printint(c);
+}

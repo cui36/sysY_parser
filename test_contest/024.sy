@@ -1,0 +1,7 @@
+//test mod
+int main(){
+    int a;
+    a = 10;
+    int c = a / 3;
+    printint(c);
+}
