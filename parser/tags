@@ -1,0 +1,938 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADDR	parse.tab.c	/^    ADDR = 267,$/;"	e	enum:yytokentype	file:
+ADDR	parse.tab.h	/^    ADDR = 267,$/;"	e	enum:yytokentype
+ADD_ASSIGN	parse.tab.c	/^    ADD_ASSIGN = 281,$/;"	e	enum:yytokentype	file:
+ADD_ASSIGN	parse.tab.h	/^    ADD_ASSIGN = 281,$/;"	e	enum:yytokentype
+AND_ASSIGN	parse.tab.c	/^    AND_ASSIGN = 285,$/;"	e	enum:yytokentype	file:
+AND_ASSIGN	parse.tab.h	/^    AND_ASSIGN = 285,$/;"	e	enum:yytokentype
+AND_OP	parse.tab.c	/^    AND_OP = 276,$/;"	e	enum:yytokentype	file:
+AND_OP	parse.tab.h	/^    AND_OP = 276,$/;"	e	enum:yytokentype
+ASTnode	defs.h	/^} ASTnode;$/;"	t	typeref:struct:_ASTnode
+AUTO	parse.tab.c	/^    AUTO = 292,$/;"	e	enum:yytokentype	file:
+AUTO	parse.tab.h	/^    AUTO = 292,$/;"	e	enum:yytokentype
+BB	defs.h	/^typedef struct _BB BB;$/;"	t	typeref:struct:_BB
+BB	defs.h	/^}BB;$/;"	t	typeref:struct:_BB
+BEGIN	lex.yy.c	117;"	d	file:
+BOOL	parse.tab.c	/^    BOOL = 264,$/;"	e	enum:yytokentype	file:
+BOOL	parse.tab.h	/^    BOOL = 264,$/;"	e	enum:yytokentype
+BREAK	parse.tab.c	/^    BREAK = 318,$/;"	e	enum:yytokentype	file:
+BREAK	parse.tab.h	/^    BREAK = 318,$/;"	e	enum:yytokentype
+CASE	parse.tab.c	/^    CASE = 308,$/;"	e	enum:yytokentype	file:
+CASE	parse.tab.h	/^    CASE = 308,$/;"	e	enum:yytokentype
+CHAR	parse.tab.c	/^    CHAR = 261,$/;"	e	enum:yytokentype	file:
+CHAR	parse.tab.h	/^    CHAR = 261,$/;"	e	enum:yytokentype
+COMPLEX	parse.tab.c	/^    COMPLEX = 303,$/;"	e	enum:yytokentype	file:
+COMPLEX	parse.tab.h	/^    COMPLEX = 303,$/;"	e	enum:yytokentype
+CONST	parse.tab.c	/^    CONST = 301,$/;"	e	enum:yytokentype	file:
+CONST	parse.tab.h	/^    CONST = 301,$/;"	e	enum:yytokentype
+CONSTANT	parse.tab.c	/^    CONSTANT = 258,$/;"	e	enum:yytokentype	file:
+CONSTANT	parse.tab.h	/^    CONSTANT = 258,$/;"	e	enum:yytokentype
+CONTINUE	parse.tab.c	/^    CONTINUE = 317,$/;"	e	enum:yytokentype	file:
+CONTINUE	parse.tab.h	/^    CONTINUE = 317,$/;"	e	enum:yytokentype
+DEC_OP	parse.tab.c	/^    DEC_OP = 269,$/;"	e	enum:yytokentype	file:
+DEC_OP	parse.tab.h	/^    DEC_OP = 269,$/;"	e	enum:yytokentype
+DEFAULT	parse.tab.c	/^    DEFAULT = 309,$/;"	e	enum:yytokentype	file:
+DEFAULT	parse.tab.h	/^    DEFAULT = 309,$/;"	e	enum:yytokentype
+DIV_ASSIGN	parse.tab.c	/^    DIV_ASSIGN = 279,$/;"	e	enum:yytokentype	file:
+DIV_ASSIGN	parse.tab.h	/^    DIV_ASSIGN = 279,$/;"	e	enum:yytokentype
+DO	parse.tab.c	/^    DO = 314,$/;"	e	enum:yytokentype	file:
+DO	parse.tab.h	/^    DO = 314,$/;"	e	enum:yytokentype
+DOUBLE	parse.tab.c	/^    DOUBLE = 300,$/;"	e	enum:yytokentype	file:
+DOUBLE	parse.tab.h	/^    DOUBLE = 300,$/;"	e	enum:yytokentype
+ECHO	lex.yy.c	705;"	d	file:
+ELLIPSIS	parse.tab.c	/^    ELLIPSIS = 307,$/;"	e	enum:yytokentype	file:
+ELLIPSIS	parse.tab.h	/^    ELLIPSIS = 307,$/;"	e	enum:yytokentype
+ELSE	parse.tab.c	/^    ELSE = 311,$/;"	e	enum:yytokentype	file:
+ELSE	parse.tab.h	/^    ELSE = 311,$/;"	e	enum:yytokentype
+ENUM	parse.tab.c	/^    ENUM = 306,$/;"	e	enum:yytokentype	file:
+ENUM	parse.tab.h	/^    ENUM = 306,$/;"	e	enum:yytokentype
+EOB_ACT_CONTINUE_SCAN	lex.yy.c	161;"	d	file:
+EOB_ACT_END_OF_FILE	lex.yy.c	162;"	d	file:
+EOB_ACT_LAST_MATCH	lex.yy.c	163;"	d	file:
+EQ_OP	parse.tab.c	/^    EQ_OP = 274,$/;"	e	enum:yytokentype	file:
+EQ_OP	parse.tab.h	/^    EQ_OP = 274,$/;"	e	enum:yytokentype
+ERROR_CODE	defs.h	/^} ERROR_CODE;$/;"	t	typeref:enum:_ERROR_CODE
+EXIT_SUCCESS	parse.tab.c	358;"	d	file:
+EXIT_SUCCESS	parse.tab.c	386;"	d	file:
+EXTERN	parse.tab.c	/^    EXTERN = 290,$/;"	e	enum:yytokentype	file:
+EXTERN	parse.tab.h	/^    EXTERN = 290,$/;"	e	enum:yytokentype
+ErrorCnt	data.h	/^extern_ int ErrorCnt;$/;"	v
+ErrorInfo	defs.h	/^static const char* ErrorInfo[] = {$/;"	v
+FLEXINT_H	lex.yy.c	29;"	d	file:
+FLEX_BETA	lex.yy.c	13;"	d	file:
+FLEX_SCANNER	lex.yy.c	8;"	d	file:
+FLOAT	parse.tab.c	/^    FLOAT = 299,$/;"	e	enum:yytokentype	file:
+FLOAT	parse.tab.h	/^    FLOAT = 299,$/;"	e	enum:yytokentype
+FOR	parse.tab.c	/^    FOR = 315,$/;"	e	enum:yytokentype	file:
+FOR	parse.tab.h	/^    FOR = 315,$/;"	e	enum:yytokentype
+Function	defs.h	/^}Function;$/;"	t	typeref:struct:_Function
+GE_OP	parse.tab.c	/^    GE_OP = 273,$/;"	e	enum:yytokentype	file:
+GE_OP	parse.tab.h	/^    GE_OP = 273,$/;"	e	enum:yytokentype
+GOTO	parse.tab.c	/^    GOTO = 316,$/;"	e	enum:yytokentype	file:
+GOTO	parse.tab.h	/^    GOTO = 316,$/;"	e	enum:yytokentype
+IDENTIFIER	parse.tab.c	/^    IDENTIFIER = 260,$/;"	e	enum:yytokentype	file:
+IDENTIFIER	parse.tab.h	/^    IDENTIFIER = 260,$/;"	e	enum:yytokentype
+IF	parse.tab.c	/^    IF = 310,$/;"	e	enum:yytokentype	file:
+IF	parse.tab.h	/^    IF = 310,$/;"	e	enum:yytokentype
+IMAGINARY	parse.tab.c	/^    IMAGINARY = 304,$/;"	e	enum:yytokentype	file:
+IMAGINARY	parse.tab.h	/^    IMAGINARY = 304,$/;"	e	enum:yytokentype
+INC_OP	parse.tab.c	/^    INC_OP = 268,$/;"	e	enum:yytokentype	file:
+INC_OP	parse.tab.h	/^    INC_OP = 268,$/;"	e	enum:yytokentype
+INITIAL	lex.yy.c	609;"	d	file:
+INLINE	parse.tab.c	/^    INLINE = 294,$/;"	e	enum:yytokentype	file:
+INLINE	parse.tab.h	/^    INLINE = 294,$/;"	e	enum:yytokentype
+INT	parse.tab.c	/^    INT = 263,$/;"	e	enum:yytokentype	file:
+INT	parse.tab.h	/^    INT = 263,$/;"	e	enum:yytokentype
+INT16_MAX	lex.yy.c	71;"	d	file:
+INT16_MIN	lex.yy.c	62;"	d	file:
+INT32_MAX	lex.yy.c	74;"	d	file:
+INT32_MIN	lex.yy.c	65;"	d	file:
+INT8_MAX	lex.yy.c	68;"	d	file:
+INT8_MIN	lex.yy.c	59;"	d	file:
+IR	defs.h	/^typedef struct _IR IR;$/;"	t	typeref:struct:_IR
+IR	defs.h	/^} IR;$/;"	t	typeref:struct:_IR
+IR_ADD	defs.h	/^    IR_ADD = 1,$/;"	e	enum:__anon1
+IR_AND	defs.h	/^    IR_AND,$/;"	e	enum:__anon1
+IR_BPREL	defs.h	/^    IR_BPREL,$/;"	e	enum:__anon1
+IR_BR	defs.h	/^    IR_BR,$/;"	e	enum:__anon1
+IR_CALL	defs.h	/^    IR_CALL,$/;"	e	enum:__anon1
+IR_DEC	defs.h	/^    IR_DEC,$/;"	e	enum:__anon1
+IR_DIV	defs.h	/^    IR_DIV,$/;"	e	enum:__anon1
+IR_EQ	defs.h	/^    IR_EQ,$/;"	e	enum:__anon1
+IR_GE	defs.h	/^    IR_GE,$/;"	e	enum:__anon1
+IR_GT	defs.h	/^    IR_GT,$/;"	e	enum:__anon1
+IR_IMM	defs.h	/^    IR_IMM,   \/\/5$/;"	e	enum:__anon1
+IR_INC	defs.h	/^    IR_INC,$/;"	e	enum:__anon1
+IR_JMP	defs.h	/^    IR_JMP,$/;"	e	enum:__anon1
+IR_LABEL_ADDR	defs.h	/^    IR_LABEL_ADDR,  \/\/10$/;"	e	enum:__anon1
+IR_LE	defs.h	/^    IR_LE,$/;"	e	enum:__anon1
+IR_LOAD	defs.h	/^    IR_LOAD,   \/\/25$/;"	e	enum:__anon1
+IR_LOAD_SPILL	defs.h	/^    IR_LOAD_SPILL,$/;"	e	enum:__anon1
+IR_LT	defs.h	/^    IR_LT,$/;"	e	enum:__anon1
+IR_MOD	defs.h	/^    IR_MOD,$/;"	e	enum:__anon1
+IR_MOV	defs.h	/^    IR_MOV,$/;"	e	enum:__anon1
+IR_MUL	defs.h	/^    IR_MUL,$/;"	e	enum:__anon1
+IR_NE	defs.h	/^    IR_NE,$/;"	e	enum:__anon1
+IR_NOP	defs.h	/^    IR_NOP,$/;"	e	enum:__anon1
+IR_OR	defs.h	/^    IR_OR,$/;"	e	enum:__anon1
+IR_PARA	defs.h	/^    IR_PARA,    \/\/34$/;"	e	enum:__anon1
+IR_RETURN	defs.h	/^    IR_RETURN,$/;"	e	enum:__anon1
+IR_SCALE	defs.h	/^    IR_SCALE,    \/\/数据大小缩放$/;"	e	enum:__anon1
+IR_SHL	defs.h	/^    IR_SHL,$/;"	e	enum:__anon1
+IR_SHR	defs.h	/^    IR_SHR,$/;"	e	enum:__anon1
+IR_STORE	defs.h	/^    IR_STORE,   \/\/27$/;"	e	enum:__anon1
+IR_STORE_ARG	defs.h	/^    IR_STORE_ARG,$/;"	e	enum:__anon1
+IR_STORE_SPILL	defs.h	/^    IR_STORE_SPILL,$/;"	e	enum:__anon1
+IR_SUB	defs.h	/^    IR_SUB,$/;"	e	enum:__anon1
+IR_Unary_Minus	defs.h	/^    IR_Unary_Minus,$/;"	e	enum:__anon1
+IR_XOR	defs.h	/^    IR_XOR,$/;"	e	enum:__anon1
+LEFT_ASSIGN	parse.tab.c	/^    LEFT_ASSIGN = 283,$/;"	e	enum:yytokentype	file:
+LEFT_ASSIGN	parse.tab.h	/^    LEFT_ASSIGN = 283,$/;"	e	enum:yytokentype
+LEFT_OP	parse.tab.c	/^    LEFT_OP = 270,$/;"	e	enum:yytokentype	file:
+LEFT_OP	parse.tab.h	/^    LEFT_OP = 270,$/;"	e	enum:yytokentype
+LE_OP	parse.tab.c	/^    LE_OP = 272,$/;"	e	enum:yytokentype	file:
+LE_OP	parse.tab.h	/^    LE_OP = 272,$/;"	e	enum:yytokentype
+LONG	parse.tab.c	/^    LONG = 296,$/;"	e	enum:yytokentype	file:
+LONG	parse.tab.h	/^    LONG = 296,$/;"	e	enum:yytokentype
+MOD_ASSIGN	parse.tab.c	/^    MOD_ASSIGN = 280,$/;"	e	enum:yytokentype	file:
+MOD_ASSIGN	parse.tab.h	/^    MOD_ASSIGN = 280,$/;"	e	enum:yytokentype
+MUL_ASSIGN	parse.tab.c	/^    MUL_ASSIGN = 278,$/;"	e	enum:yytokentype	file:
+MUL_ASSIGN	parse.tab.h	/^    MUL_ASSIGN = 278,$/;"	e	enum:yytokentype
+NE_OP	parse.tab.c	/^    NE_OP = 275,$/;"	e	enum:yytokentype	file:
+NE_OP	parse.tab.h	/^    NE_OP = 275,$/;"	e	enum:yytokentype
+NODE_TYPE	defs.h	/^} NODE_TYPE;$/;"	t	typeref:enum:_NODE_TYPE
+OR_ASSIGN	parse.tab.c	/^    OR_ASSIGN = 287,$/;"	e	enum:yytokentype	file:
+OR_ASSIGN	parse.tab.h	/^    OR_ASSIGN = 287,$/;"	e	enum:yytokentype
+OR_OP	parse.tab.c	/^    OR_OP = 277,$/;"	e	enum:yytokentype	file:
+OR_OP	parse.tab.h	/^    OR_OP = 277,$/;"	e	enum:yytokentype
+Perror	error.cpp	/^void Perror( const ERROR_CODE errorCode, int lineno,  ... )$/;"	f
+Perror	error.cpp	/^void Perror( const char *format,  ... )$/;"	f
+PerrorWithLineNo	error.cpp	/^void PerrorWithLineNo( const ERROR_CODE errorCode, ... )$/;"	f
+Program	defs.h	/^} Program;$/;"	t	typeref:struct:_Program
+REGISTER	parse.tab.c	/^    REGISTER = 293,$/;"	e	enum:yytokentype	file:
+REGISTER	parse.tab.h	/^    REGISTER = 293,$/;"	e	enum:yytokentype
+REJECT	lex.yy.c	575;"	d	file:
+RESTRICT	parse.tab.c	/^    RESTRICT = 295,$/;"	e	enum:yytokentype	file:
+RESTRICT	parse.tab.h	/^    RESTRICT = 295,$/;"	e	enum:yytokentype
+RETURN	parse.tab.c	/^    RETURN = 319$/;"	e	enum:yytokentype	file:
+RETURN	parse.tab.h	/^    RETURN = 319$/;"	e	enum:yytokentype
+RIGHT_ASSIGN	parse.tab.c	/^    RIGHT_ASSIGN = 284,$/;"	e	enum:yytokentype	file:
+RIGHT_ASSIGN	parse.tab.h	/^    RIGHT_ASSIGN = 284,$/;"	e	enum:yytokentype
+RIGHT_OP	parse.tab.c	/^    RIGHT_OP = 271,$/;"	e	enum:yytokentype	file:
+RIGHT_OP	parse.tab.h	/^    RIGHT_OP = 271,$/;"	e	enum:yytokentype
+Reg	defs.h	/^typedef struct _Reg Reg;$/;"	t	typeref:struct:_Reg
+Reg	defs.h	/^}Reg;$/;"	t	typeref:struct:_Reg
+SHORT	parse.tab.c	/^    SHORT = 262,$/;"	e	enum:yytokentype	file:
+SHORT	parse.tab.h	/^    SHORT = 262,$/;"	e	enum:yytokentype
+SIGNED	parse.tab.c	/^    SIGNED = 297,$/;"	e	enum:yytokentype	file:
+SIGNED	parse.tab.h	/^    SIGNED = 297,$/;"	e	enum:yytokentype
+SIZE_MAX	lex.yy.c	87;"	d	file:
+SSA_to_x86	regalloc.cpp	/^void SSA_to_x86( BB *bb )$/;"	f
+STATIC	parse.tab.c	/^    STATIC = 291,$/;"	e	enum:yytokentype	file:
+STATIC	parse.tab.h	/^    STATIC = 291,$/;"	e	enum:yytokentype
+STRING	parse.tab.c	/^    STRING = 266,$/;"	e	enum:yytokentype	file:
+STRING	parse.tab.h	/^    STRING = 266,$/;"	e	enum:yytokentype
+STRING_LITERAL	parse.tab.c	/^    STRING_LITERAL = 259,$/;"	e	enum:yytokentype	file:
+STRING_LITERAL	parse.tab.h	/^    STRING_LITERAL = 259,$/;"	e	enum:yytokentype
+STRING_X	lex.yy.c	610;"	d	file:
+STRUCT	parse.tab.c	/^    STRUCT = 305,$/;"	e	enum:yytokentype	file:
+STRUCT	parse.tab.h	/^    STRUCT = 305,$/;"	e	enum:yytokentype
+SUB_ASSIGN	parse.tab.c	/^    SUB_ASSIGN = 282,$/;"	e	enum:yytokentype	file:
+SUB_ASSIGN	parse.tab.h	/^    SUB_ASSIGN = 282,$/;"	e	enum:yytokentype
+SWITCH	parse.tab.c	/^    SWITCH = 312,$/;"	e	enum:yytokentype	file:
+SWITCH	parse.tab.h	/^    SWITCH = 312,$/;"	e	enum:yytokentype
+Stack	defs.h	/^}Stack;$/;"	t	typeref:struct:_Stack
+TYPEDEF	parse.tab.c	/^    TYPEDEF = 289,$/;"	e	enum:yytokentype	file:
+TYPEDEF	parse.tab.h	/^    TYPEDEF = 289,$/;"	e	enum:yytokentype
+TYPE_NAME	parse.tab.c	/^    TYPE_NAME = 288,$/;"	e	enum:yytokentype	file:
+TYPE_NAME	parse.tab.h	/^    TYPE_NAME = 288,$/;"	e	enum:yytokentype
+TYPE_SPEC	defs.h	/^} TYPE_SPEC;$/;"	t	typeref:enum:_TYPE_SPEC
+Type	defs.h	/^}Type;$/;"	t	typeref:struct:_Type
+UINT16_MAX	lex.yy.c	80;"	d	file:
+UINT32_MAX	lex.yy.c	83;"	d	file:
+UINT8_MAX	lex.yy.c	77;"	d	file:
+UNSIGNED	parse.tab.c	/^    UNSIGNED = 298,$/;"	e	enum:yytokentype	file:
+UNSIGNED	parse.tab.h	/^    UNSIGNED = 298,$/;"	e	enum:yytokentype
+VOID	parse.tab.c	/^    VOID = 265,$/;"	e	enum:yytokentype	file:
+VOID	parse.tab.h	/^    VOID = 265,$/;"	e	enum:yytokentype
+VOLATILE	parse.tab.c	/^    VOLATILE = 302,$/;"	e	enum:yytokentype	file:
+VOLATILE	parse.tab.h	/^    VOLATILE = 302,$/;"	e	enum:yytokentype
+Var	defs.h	/^typedef struct _Var Var;$/;"	t	typeref:struct:_Var
+Var	defs.h	/^}Var;$/;"	t	typeref:struct:_Var
+WHILE	parse.tab.c	/^    WHILE = 313,$/;"	e	enum:yytokentype	file:
+WHILE	parse.tab.h	/^    WHILE = 313,$/;"	e	enum:yytokentype
+XOR_ASSIGN	parse.tab.c	/^    XOR_ASSIGN = 286,$/;"	e	enum:yytokentype	file:
+XOR_ASSIGN	parse.tab.h	/^    XOR_ASSIGN = 286,$/;"	e	enum:yytokentype
+YYABORT	parse.tab.c	833;"	d	file:
+YYACCEPT	parse.tab.c	832;"	d	file:
+YYBACKUP	parse.tab.c	839;"	d	file:
+YYBISON	parse.tab.c	44;"	d	file:
+YYBISON_VERSION	parse.tab.c	47;"	d	file:
+YYCASE_	parse.tab.c	1248;"	d	file:
+YYCASE_	parse.tab.c	1258;"	d	file:
+YYCOPY	parse.tab.c	452;"	d	file:
+YYCOPY	parse.tab.c	455;"	d	file:
+YYCOPY_NEEDED	parse.tab.c	427;"	d	file:
+YYDEBUG	parse.tab.c	110;"	d	file:
+YYDEBUG	parse.tab.h	37;"	d
+YYDPRINTF	parse.tab.c	1053;"	d	file:
+YYDPRINTF	parse.tab.c	896;"	d	file:
+YYEMPTY	parse.tab.c	829;"	d	file:
+YYEOF	parse.tab.c	830;"	d	file:
+YYERRCODE	parse.tab.c	858;"	d	file:
+YYERROR	parse.tab.c	834;"	d	file:
+YYERROR_VERBOSE	parse.tab.c	101;"	d	file:
+YYERROR_VERBOSE	parse.tab.c	98;"	d	file:
+YYERROR_VERBOSE	parse.tab.c	99;"	d	file:
+YYFINAL	parse.tab.c	468;"	d	file:
+YYFPRINTF	parse.tab.c	893;"	d	file:
+YYFREE	parse.tab.c	396;"	d	file:
+YYINITDEPTH	parse.tab.c	1062;"	d	file:
+YYLAST	parse.tab.c	470;"	d	file:
+YYLLOC_DEFAULT	parse.tab.c	866;"	d	file:
+YYLTYPE	parse.tab.c	/^struct YYLTYPE$/;"	s	file:
+YYLTYPE	parse.tab.c	/^typedef struct YYLTYPE YYLTYPE;$/;"	t	typeref:struct:YYLTYPE	file:
+YYLTYPE	parse.tab.h	/^struct YYLTYPE$/;"	s
+YYLTYPE	parse.tab.h	/^typedef struct YYLTYPE YYLTYPE;$/;"	t	typeref:struct:YYLTYPE
+YYLTYPE_IS_DECLARED	parse.tab.c	213;"	d	file:
+YYLTYPE_IS_DECLARED	parse.tab.h	140;"	d
+YYLTYPE_IS_TRIVIAL	parse.tab.c	214;"	d	file:
+YYLTYPE_IS_TRIVIAL	parse.tab.h	141;"	d
+YYMALLOC	parse.tab.c	390;"	d	file:
+YYMAXDEPTH	parse.tab.c	1073;"	d	file:
+YYMAXUTOK	parse.tab.c	484;"	d	file:
+YYNNTS	parse.tab.c	475;"	d	file:
+YYNRULES	parse.tab.c	477;"	d	file:
+YYNSTATES	parse.tab.c	479;"	d	file:
+YYNTOKENS	parse.tab.c	473;"	d	file:
+YYPACT_NINF	parse.tab.c	593;"	d	file:
+YYPOPSTACK	parse.tab.c	1390;"	d	file:
+YYPULL	parse.tab.c	59;"	d	file:
+YYPURE	parse.tab.c	53;"	d	file:
+YYPUSH	parse.tab.c	56;"	d	file:
+YYRECOVERING	parse.tab.c	837;"	d	file:
+YYRHSLOC	parse.tab.c	885;"	d	file:
+YYSIZE_MAXIMUM	parse.tab.c	269;"	d	file:
+YYSIZE_T	parse.tab.c	258;"	d	file:
+YYSIZE_T	parse.tab.c	260;"	d	file:
+YYSIZE_T	parse.tab.c	263;"	d	file:
+YYSIZE_T	parse.tab.c	265;"	d	file:
+YYSKELETON_NAME	parse.tab.c	50;"	d	file:
+YYSTACK_ALLOC	parse.tab.c	344;"	d	file:
+YYSTACK_ALLOC	parse.tab.c	348;"	d	file:
+YYSTACK_ALLOC	parse.tab.c	353;"	d	file:
+YYSTACK_ALLOC	parse.tab.c	376;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	parse.tab.c	373;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	parse.tab.c	379;"	d	file:
+YYSTACK_BYTES	parse.tab.c	423;"	d	file:
+YYSTACK_FREE	parse.tab.c	367;"	d	file:
+YYSTACK_FREE	parse.tab.c	377;"	d	file:
+YYSTACK_GAP_MAXIMUM	parse.tab.c	419;"	d	file:
+YYSTACK_RELOCATE	parse.tab.c	434;"	d	file:
+YYSTATE	lex.yy.c	123;"	d	file:
+YYSTYPE	parse.tab.c	/^typedef union YYSTYPE YYSTYPE;$/;"	t	typeref:union:YYSTYPE	file:
+YYSTYPE	parse.tab.c	/^union YYSTYPE$/;"	u	file:
+YYSTYPE	parse.tab.h	/^typedef union YYSTYPE YYSTYPE;$/;"	t	typeref:union:YYSTYPE
+YYSTYPE	parse.tab.h	/^union YYSTYPE$/;"	u
+YYSTYPE_IS_DECLARED	parse.tab.c	200;"	d	file:
+YYSTYPE_IS_DECLARED	parse.tab.h	127;"	d
+YYSTYPE_IS_TRIVIAL	parse.tab.c	199;"	d	file:
+YYSTYPE_IS_TRIVIAL	parse.tab.h	126;"	d
+YYTABLES_NAME	lex.yy.c	2223;"	d	file:
+YYTABLE_NINF	parse.tab.c	598;"	d	file:
+YYTERROR	parse.tab.c	857;"	d	file:
+YYTOKENTYPE	parse.tab.c	118;"	d	file:
+YYTOKENTYPE	parse.tab.h	45;"	d
+YYTRANSLATE	parse.tab.c	486;"	d	file:
+YYUNDEFTOK	parse.tab.c	483;"	d	file:
+YYUSE	parse.tab.c	312;"	d	file:
+YYUSE	parse.tab.c	314;"	d	file:
+YY_	parse.tab.c	275;"	d	file:
+YY_	parse.tab.c	279;"	d	file:
+YY_ATTRIBUTE	parse.tab.c	287;"	d	file:
+YY_ATTRIBUTE	parse.tab.c	289;"	d	file:
+YY_ATTRIBUTE_PURE	parse.tab.c	294;"	d	file:
+YY_ATTRIBUTE_UNUSED	parse.tab.c	298;"	d	file:
+YY_AT_BOL	lex.yy.c	341;"	d	file:
+YY_BREAK	lex.yy.c	784;"	d	file:
+YY_BUFFER_EOF_PENDING	lex.yy.c	262;"	d	file:
+YY_BUFFER_NEW	lex.yy.c	250;"	d	file:
+YY_BUFFER_NORMAL	lex.yy.c	251;"	d	file:
+YY_BUFFER_STATE	lex.yy.c	/^typedef struct yy_buffer_state *YY_BUFFER_STATE;$/;"	t	typeref:struct:yy_buffer_state	file:
+YY_BUF_SIZE	lex.yy.c	137;"	d	file:
+YY_BUF_SIZE	lex.yy.c	139;"	d	file:
+YY_CHAR	lex.yy.c	/^typedef flex_uint8_t YY_CHAR;$/;"	t	file:
+YY_CURRENT_BUFFER	lex.yy.c	278;"	d	file:
+YY_CURRENT_BUFFER_LVALUE	lex.yy.c	284;"	d	file:
+YY_DECL	lex.yy.c	772;"	d	file:
+YY_DECL_IS_OURS	lex.yy.c	768;"	d	file:
+YY_DO_BEFORE_ACTION	lex.yy.c	370;"	d	file:
+YY_END_OF_BUFFER	lex.yy.c	377;"	d	file:
+YY_END_OF_BUFFER_CHAR	lex.yy.c	128;"	d	file:
+YY_EXIT_FAILURE	lex.yy.c	2016;"	d	file:
+YY_EXTRA_TYPE	lex.yy.c	621;"	d	file:
+YY_FATAL_ERROR	lex.yy.c	759;"	d	file:
+YY_FLEX_MAJOR_VERSION	lex.yy.c	9;"	d	file:
+YY_FLEX_MINOR_VERSION	lex.yy.c	10;"	d	file:
+YY_FLEX_SUBMINOR_VERSION	lex.yy.c	11;"	d	file:
+YY_FLUSH_BUFFER	lex.yy.c	312;"	d	file:
+YY_IGNORE_MAYBE_UNINITIALIZED_BEGIN	parse.tab.c	319;"	d	file:
+YY_IGNORE_MAYBE_UNINITIALIZED_BEGIN	parse.tab.c	329;"	d	file:
+YY_IGNORE_MAYBE_UNINITIALIZED_END	parse.tab.c	323;"	d	file:
+YY_IGNORE_MAYBE_UNINITIALIZED_END	parse.tab.c	330;"	d	file:
+YY_INITIAL_VALUE	parse.tab.c	326;"	d	file:
+YY_INITIAL_VALUE	parse.tab.c	333;"	d	file:
+YY_INPUT	lex.yy.c	712;"	d	file:
+YY_INT_ALIGNED	lex.yy.c	4;"	d	file:
+YY_LESS_LINENO	lex.yy.c	172;"	d	file:
+YY_LINENO_REWIND_TO	lex.yy.c	179;"	d	file:
+YY_LOCATION_PRINT	parse.tab.c	938;"	d	file:
+YY_LOCATION_PRINT	parse.tab.c	942;"	d	file:
+YY_MORE_ADJ	lex.yy.c	577;"	d	file:
+YY_NEW_FILE	lex.yy.c	127;"	d	file:
+YY_NULL	lex.yy.c	106;"	d	file:
+YY_NULLPTR	parse.tab.c	90;"	d	file:
+YY_NULLPTR	parse.tab.c	92;"	d	file:
+YY_NUM_RULES	lex.yy.c	376;"	d	file:
+YY_READ_BUF_SIZE	lex.yy.c	694;"	d	file:
+YY_READ_BUF_SIZE	lex.yy.c	696;"	d	file:
+YY_REDUCE_PRINT	parse.tab.c	1043;"	d	file:
+YY_REDUCE_PRINT	parse.tab.c	1056;"	d	file:
+YY_RESTORE_YY_MORE_OFFSET	lex.yy.c	578;"	d	file:
+YY_RULE_SETUP	lex.yy.c	787;"	d	file:
+YY_SC_TO_UI	lex.yy.c	111;"	d	file:
+YY_SKIP_YYWRAP	lex.yy.c	346;"	d	file:
+YY_STACK_PRINT	parse.tab.c	1012;"	d	file:
+YY_STACK_PRINT	parse.tab.c	1055;"	d	file:
+YY_START	lex.yy.c	122;"	d	file:
+YY_START_STACK_INCR	lex.yy.c	754;"	d	file:
+YY_STATE_BUF_SIZE	lex.yy.c	145;"	d	file:
+YY_STATE_EOF	lex.yy.c	125;"	d	file:
+YY_STRUCT_YY_BUFFER_STATE	lex.yy.c	203;"	d	file:
+YY_SYMBOL_PRINT	parse.tab.c	1054;"	d	file:
+YY_SYMBOL_PRINT	parse.tab.c	947;"	d	file:
+YY_TYPEDEF_YY_BUFFER_STATE	lex.yy.c	148;"	d	file:
+YY_TYPEDEF_YY_SIZE_T	lex.yy.c	153;"	d	file:
+YY_USER_ACTION	lex.yy.c	586;"	d	file:
+YY_USER_ACTION	lex.yy.c	779;"	d	file:
+YY_YY_PARSE_TAB_H_INCLUDED	parse.tab.c	107;"	d	file:
+YY_YY_PARSE_TAB_H_INCLUDED	parse.tab.h	34;"	d
+_ASTnode	defs.h	/^typedef struct _ASTnode {$/;"	s
+_BB	defs.h	/^typedef struct _BB{$/;"	s
+_DATA_H_	data.h	2;"	d
+_DEFS_H_	defs.h	2;"	d
+_DELCS_H_	decl.h	2;"	d
+_ERROR_CODE	defs.h	/^typedef enum _ERROR_CODE$/;"	g
+_Function	defs.h	/^typedef struct _Function {$/;"	s
+_IR	defs.h	/^typedef struct _IR{$/;"	s
+_NODE_TYPE	defs.h	/^typedef enum _NODE_TYPE {$/;"	g
+_Noreturn	parse.tab.c	304;"	d	file:
+_Noreturn	parse.tab.c	306;"	d	file:
+_Program	defs.h	/^typedef struct _Program{$/;"	s
+_Reg	defs.h	/^typedef struct _Reg{$/;"	s
+_Stack	defs.h	/^typedef struct _Stack {$/;"	s
+_TYPE_SPEC	defs.h	/^typedef enum _TYPE_SPEC$/;"	g
+_Type	defs.h	/^typedef struct _Type {$/;"	s
+_Var	defs.h	/^typedef struct _Var {$/;"	s
+__STDC_LIMIT_MACROS	lex.yy.c	39;"	d	file:
+a	test/arithmetic_test.c	/^int a;$/;"	v
+a	test/built_in_func_test.c	/^int a;$/;"	v
+addFunc	semantic.cpp	/^void addFunc( Function *func )$/;"	f
+addGlobVar	semantic.cpp	/^void addGlobVar( Var *gVar )$/;"	f
+addLocalVar	semantic.cpp	/^void addLocalVar( Var *locVar )$/;"	f
+align	defs.h	/^    int align;   \/\/字节对齐$/;"	m	struct:_Type
+alloc_regs	regalloc.cpp	/^void alloc_regs()$/;"	f
+alloca	parse.tab.c	351;"	d	file:
+argregs	gen_x86.cpp	/^const char *argregs[] = $/;"	v
+argregs16	gen_x86.cpp	/^const char *argregs16[] = $/;"	v
+argregs32	gen_x86.cpp	/^const char *argregs32[] = $/;"	v
+argregs8	gen_x86.cpp	/^const char *argregs8[] = $/;"	v
+args	defs.h	/^    std::vector<struct _Reg*> args;   \/\/函数参数$/;"	m	struct:_IR
+argument_expression_list	gen_ir.cpp	/^void argument_expression_list( IR *ir, ASTnode *n )$/;"	f
+argument_expression_list	semantic.cpp	/^void argument_expression_list( ASTnode *n, int *argNum )$/;"	f
+array_type	type.cpp	/^Type* array_type( Type *base, int len )$/;"	f
+ary_of	defs.h	/^    struct _Type *ary_of;   \/\/数组元素的类型$/;"	m	struct:_Type	typeref:struct:_Type::_Type
+astNode	parse.tab.c	/^    struct _ASTnode *astNode;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::_ASTnode	file:
+astNode	parse.tab.h	/^    struct _ASTnode *astNode;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::_ASTnode
+b	test/array_test.c	/^int b[5];$/;"	v
+bb1	defs.h	/^    BB *bb1;   \/\/成功跳转的基本块$/;"	m	struct:_IR
+bb2	defs.h	/^    BB *bb2;   \/\/失败跳转的基本块$/;"	m	struct:_IR
+bbs	defs.h	/^    std::vector<BB*> bbs;$/;"	m	struct:_Function
+bisonSrc	makefile	/^bisonSrc := parse.y$/;"	m
+block_item_list	semantic.cpp	/^ASTnode* block_item_list( ASTnode *n )$/;"	f
+body	defs.h	/^    ASTnode *body;$/;"	m	struct:_Function
+br	gen_ir.cpp	/^IR* br( Reg *r, BB *succ, BB *fail )$/;"	f
+brkBB	gen_ir.cpp	/^static std::vector<BB*> brkBB;$/;"	v	file:
+buil_in_funcs	data.h	/^extern_ std::map<std::string, Function* > buil_in_funcs;$/;"	v
+charToDec	lex.yy.c	/^int charToDec()$/;"	f
+char_type	type.cpp	/^Type* char_type()$/;"	f
+choose_reg	gen_x86.cpp	/^const char* choose_reg( int rn, int size )$/;"	f
+choose_to_spill	regalloc.cpp	/^int choose_to_spill( Reg **used )$/;"	f
+chr	log.c	/^char chr = 3;$/;"	v
+chr	log2.S	/^chr:$/;"	l
+chr	test/type_test.c	/^char chr = 300;$/;"	v
+chrArr	log.c	/^char chrArr[2][3];$/;"	v
+chrArr	test/type_test.c	/^char chrArr[2][3];$/;"	v
+cmplist	gen_x86.cpp	/^const char *cmplist[] = { "sete", "setne", "setle", "setl", "setg", "setge" };$/;"	v
+comment	lex.yy.c	/^void comment()$/;"	f
+compound_statement	semantic.cpp	/^ASTnode* compound_statement( ASTnode *n )$/;"	f
+constASTnode	parse.tab.c	/^ASTnode* constASTnode( int val )$/;"	f
+continueBB	gen_ir.cpp	/^static std::vector<BB*> continueBB;$/;"	v	file:
+createBB	gen_ir.cpp	/^BB* createBB()$/;"	f
+create_used_array	regalloc.cpp	/^Reg** create_used_array()$/;"	f
+curBB	gen_ir.cpp	/^static BB *curBB = NULL;$/;"	v	file:
+curBBS	gen_ir.cpp	/^static std::vector<BB*> curBBS;$/;"	v	file:
+curFunc	gen_ir.cpp	/^static Function *curFunc = NULL;$/;"	v	file:
+debug	defs.h	/^    int debug; \/\/for debug$/;"	m	struct:_IR
+debug	gen_ir.cpp	/^static int debug = 0;$/;"	v	file:
+declaration	parse.y	/^declaration: type_specifier init_declarator_list ';'   $/;"	l
+declaration	semantic.cpp	/^void declaration( ASTnode *n )$/;"	f
+declarator	semantic.cpp	/^ASTnode* declarator( Type *ty, ASTnode *n )$/;"	f
+def	defs.h	/^    int def;$/;"	m	struct:_Reg
+dimens	defs.h	/^    std::vector<int> dimens;  \/\/数组定义时的维数$/;"	m	struct:_Type
+emEC_Cannot_open_file	defs.h	/^    emEC_Cannot_open_file,$/;"	e	enum:_ERROR_CODE
+emEC_Expected_constant_expression	defs.h	/^    emEC_Expected_constant_expression,$/;"	e	enum:_ERROR_CODE
+emEC_Function_redefined	defs.h	/^    emEC_Function_redefined,$/;"	e	enum:_ERROR_CODE
+emEC_Illegal_break	defs.h	/^    emEC_Illegal_break,$/;"	e	enum:_ERROR_CODE
+emEC_Illegal_continue	defs.h	/^    emEC_Illegal_continue,$/;"	e	enum:_ERROR_CODE
+emEC_Invalid_Initializer	defs.h	/^    emEC_Invalid_Initializer,$/;"	e	enum:_ERROR_CODE
+emEC_Invalid_specifier	defs.h	/^    emEC_Invalid_specifier,$/;"	e	enum:_ERROR_CODE
+emEC_Left_operand_must_be_l_value	defs.h	/^    emEC_Left_operand_must_be_l_value,$/;"	e	enum:_ERROR_CODE
+emEC_Miss_Terminating_character	defs.h	/^    emEC_Miss_Terminating_character,$/;"	e	enum:_ERROR_CODE
+emEC_Must_return_a_value	defs.h	/^    emEC_Must_return_a_value,$/;"	e	enum:_ERROR_CODE
+emEC_No_main_function	defs.h	/^    emEC_No_main_function,$/;"	e	enum:_ERROR_CODE
+emEC_Not_enough_memory	defs.h	/^    emEC_Not_enough_memory = 0,$/;"	e	enum:_ERROR_CODE
+emEC_Omit_Parameter_Name	defs.h	/^    emEC_Omit_Parameter_Name,$/;"	e	enum:_ERROR_CODE
+emEC_Redefinition	defs.h	/^    emEC_Redefinition,$/;"	e	enum:_ERROR_CODE
+emEC_Subscript_value_is_not_array	defs.h	/^    emEC_Subscript_value_is_not_array,$/;"	e	enum:_ERROR_CODE
+emEC_Syntax_error	defs.h	/^    emEC_Syntax_error,$/;"	e	enum:_ERROR_CODE
+emEC_Too_few_argumnet	defs.h	/^    emEC_Too_few_argumnet,$/;"	e	enum:_ERROR_CODE
+emEC_Too_many_argument	defs.h	/^    emEC_Too_many_argument,$/;"	e	enum:_ERROR_CODE
+emEC_Undeclared_identifier	defs.h	/^    emEC_Undeclared_identifier,$/;"	e	enum:_ERROR_CODE
+emEC_Unknown_character	defs.h	/^    emEC_Unknown_character,$/;"	e	enum:_ERROR_CODE
+emEC_Unterminated_comment	defs.h	/^    emEC_Unterminated_comment,$/;"	e	enum:_ERROR_CODE
+emEC_Void_cannot_be_an_argument_type	defs.h	/^    emEC_Void_cannot_be_an_argument_type,$/;"	e	enum:_ERROR_CODE
+emEC_Void_function_returning_a_value	defs.h	/^    emEC_Void_function_returning_a_value,$/;"	e	enum:_ERROR_CODE
+emND_ADDR	defs.h	/^    emND_ADDR,$/;"	e	enum:_NODE_TYPE
+emND_ADD_ASSIGN	defs.h	/^    emND_ADD_ASSIGN,$/;"	e	enum:_NODE_TYPE
+emND_AND_ASSIGN	defs.h	/^    emND_AND_ASSIGN,$/;"	e	enum:_NODE_TYPE
+emND_ARRAY	defs.h	/^    emND_ARRAY,$/;"	e	enum:_NODE_TYPE
+emND_AbsDecl	defs.h	/^    emND_AbsDecl,$/;"	e	enum:_NODE_TYPE
+emND_And	defs.h	/^    emND_And,$/;"	e	enum:_NODE_TYPE
+emND_ArgExpr	defs.h	/^    emND_ArgExpr,   \/\/20$/;"	e	enum:_NODE_TYPE
+emND_Assign	defs.h	/^    emND_Assign,   \/\/ 61$/;"	e	enum:_NODE_TYPE
+emND_Brk	defs.h	/^    emND_Brk,$/;"	e	enum:_NODE_TYPE
+emND_CHAR	defs.h	/^    emND_CHAR,$/;"	e	enum:_NODE_TYPE
+emND_Call	defs.h	/^    emND_Call,   \/\/52$/;"	e	enum:_NODE_TYPE
+emND_Comma	defs.h	/^    emND_Comma,$/;"	e	enum:_NODE_TYPE
+emND_CompoStmt	defs.h	/^    emND_CompoStmt, \/\/15$/;"	e	enum:_NODE_TYPE
+emND_Cond	defs.h	/^    emND_Cond,$/;"	e	enum:_NODE_TYPE
+emND_Const	defs.h	/^    emND_Const,$/;"	e	enum:_NODE_TYPE
+emND_Ctn	defs.h	/^    emND_Ctn,$/;"	e	enum:_NODE_TYPE
+emND_DIV_ASSIGN	defs.h	/^    emND_DIV_ASSIGN,$/;"	e	enum:_NODE_TYPE
+emND_Dec	defs.h	/^    emND_Dec,$/;"	e	enum:_NODE_TYPE
+emND_Decl	defs.h	/^    emND_Decl,$/;"	e	enum:_NODE_TYPE
+emND_Decltion	defs.h	/^    emND_Decltion,$/;"	e	enum:_NODE_TYPE
+emND_Decltor	defs.h	/^    emND_Decltor,  \/\/48$/;"	e	enum:_NODE_TYPE
+emND_Desgtion	defs.h	/^    emND_Desgtion,$/;"	e	enum:_NODE_TYPE
+emND_Desgtor	defs.h	/^    emND_Desgtor,$/;"	e	enum:_NODE_TYPE
+emND_DesgtorLit	defs.h	/^    emND_DesgtorLit,$/;"	e	enum:_NODE_TYPE
+emND_DirtAbsDecl	defs.h	/^    emND_DirtAbsDecl,$/;"	e	enum:_NODE_TYPE
+emND_Div	defs.h	/^    emND_Div,$/;"	e	enum:_NODE_TYPE
+emND_Eq	defs.h	/^    emND_Eq,$/;"	e	enum:_NODE_TYPE
+emND_Equal	defs.h	/^    emND_Equal,  \/\/符号$/;"	e	enum:_NODE_TYPE
+emND_ExprStmt	defs.h	/^    emND_ExprStmt,$/;"	e	enum:_NODE_TYPE
+emND_For	defs.h	/^    emND_For,$/;"	e	enum:_NODE_TYPE
+emND_Func	defs.h	/^    emND_Func,$/;"	e	enum:_NODE_TYPE
+emND_GLUE	defs.h	/^    emND_GLUE,$/;"	e	enum:_NODE_TYPE
+emND_Ge	defs.h	/^    emND_Ge,$/;"	e	enum:_NODE_TYPE
+emND_Gt	defs.h	/^    emND_Gt,$/;"	e	enum:_NODE_TYPE
+emND_INT	defs.h	/^    emND_INT,$/;"	e	enum:_NODE_TYPE
+emND_Ident	defs.h	/^    emND_Ident,   \/\/3$/;"	e	enum:_NODE_TYPE
+emND_If	defs.h	/^    emND_If,$/;"	e	enum:_NODE_TYPE
+emND_Inc	defs.h	/^    emND_Inc,$/;"	e	enum:_NODE_TYPE
+emND_InitDecltor	defs.h	/^    emND_InitDecltor,$/;"	e	enum:_NODE_TYPE
+emND_InitLit	defs.h	/^    emND_InitLit,$/;"	e	enum:_NODE_TYPE
+emND_Initzer	defs.h	/^    emND_Initzer,$/;"	e	enum:_NODE_TYPE
+emND_IterStmt	defs.h	/^    emND_IterStmt,$/;"	e	enum:_NODE_TYPE
+emND_JmpStmt	defs.h	/^    emND_JmpStmt,$/;"	e	enum:_NODE_TYPE
+emND_LAnd	defs.h	/^    emND_LAnd,$/;"	e	enum:_NODE_TYPE
+emND_LBracket	defs.h	/^    emND_LBracket,$/;"	e	enum:_NODE_TYPE
+emND_LEFT_ASSIGN	defs.h	/^    emND_LEFT_ASSIGN,$/;"	e	enum:_NODE_TYPE
+emND_LNot	defs.h	/^    emND_LNot,$/;"	e	enum:_NODE_TYPE
+emND_LOr	defs.h	/^    emND_LOr,$/;"	e	enum:_NODE_TYPE
+emND_LParen	defs.h	/^    emND_LParen,   \/\/37$/;"	e	enum:_NODE_TYPE
+emND_LSquBrck	defs.h	/^    emND_LSquBrck,$/;"	e	enum:_NODE_TYPE
+emND_Le	defs.h	/^    emND_Le,$/;"	e	enum:_NODE_TYPE
+emND_List	defs.h	/^    emND_List,$/;"	e	enum:_NODE_TYPE
+emND_Lt	defs.h	/^    emND_Lt,$/;"	e	enum:_NODE_TYPE
+emND_MOD_ASSIGN	defs.h	/^    emND_MOD_ASSIGN,$/;"	e	enum:_NODE_TYPE
+emND_MUL_ASSIGN	defs.h	/^    emND_MUL_ASSIGN,$/;"	e	enum:_NODE_TYPE
+emND_Minus	defs.h	/^    emND_Minus,$/;"	e	enum:_NODE_TYPE
+emND_Mod	defs.h	/^    emND_Mod,$/;"	e	enum:_NODE_TYPE
+emND_Mul	defs.h	/^    emND_Mul,$/;"	e	enum:_NODE_TYPE
+emND_Ne	defs.h	/^    emND_Ne,$/;"	e	enum:_NODE_TYPE
+emND_Neg	defs.h	/^    emND_Neg,$/;"	e	enum:_NODE_TYPE
+emND_Not	defs.h	/^    emND_Not,$/;"	e	enum:_NODE_TYPE
+emND_OR_ASSIGN	defs.h	/^    emND_OR_ASSIGN  ,$/;"	e	enum:_NODE_TYPE
+emND_Or	defs.h	/^    emND_Or,$/;"	e	enum:_NODE_TYPE
+emND_POINTER	defs.h	/^    emND_POINTER,$/;"	e	enum:_NODE_TYPE
+emND_Para	defs.h	/^    emND_Para,$/;"	e	enum:_NODE_TYPE
+emND_Plus	defs.h	/^    emND_Plus,$/;"	e	enum:_NODE_TYPE
+emND_PostExpr	defs.h	/^    emND_PostExpr,$/;"	e	enum:_NODE_TYPE
+emND_PtrOp	defs.h	/^    emND_PtrOp,  \/\/->$/;"	e	enum:_NODE_TYPE
+emND_RBracket	defs.h	/^    emND_RBracket,$/;"	e	enum:_NODE_TYPE
+emND_RIGHT_ASSIGN	defs.h	/^    emND_RIGHT_ASSIGN,$/;"	e	enum:_NODE_TYPE
+emND_RParen	defs.h	/^    emND_RParen,$/;"	e	enum:_NODE_TYPE
+emND_RSquBrck	defs.h	/^    emND_RSquBrck,$/;"	e	enum:_NODE_TYPE
+emND_Ret	defs.h	/^    emND_Ret,$/;"	e	enum:_NODE_TYPE
+emND_SHORT	defs.h	/^    emND_SHORT,$/;"	e	enum:_NODE_TYPE
+emND_SUB_ASSIGN	defs.h	/^    emND_SUB_ASSIGN,$/;"	e	enum:_NODE_TYPE
+emND_SelStmt	defs.h	/^    emND_SelStmt,$/;"	e	enum:_NODE_TYPE
+emND_Shl	defs.h	/^    emND_Shl,$/;"	e	enum:_NODE_TYPE
+emND_Shr	defs.h	/^    emND_Shr,$/;"	e	enum:_NODE_TYPE
+emND_Start	defs.h	/^    emND_Start,$/;"	e	enum:_NODE_TYPE
+emND_Stmt	defs.h	/^    emND_Stmt,  \/\/ 11$/;"	e	enum:_NODE_TYPE
+emND_String	defs.h	/^    emND_String,$/;"	e	enum:_NODE_TYPE
+emND_String_Literal	defs.h	/^    emND_String_Literal,$/;"	e	enum:_NODE_TYPE
+emND_StructDecl	defs.h	/^    emND_StructDecl,$/;"	e	enum:_NODE_TYPE
+emND_StructDeclLit	defs.h	/^    emND_StructDeclLit,  \/\/30$/;"	e	enum:_NODE_TYPE
+emND_StructSpec	defs.h	/^    emND_StructSpec,$/;"	e	enum:_NODE_TYPE
+emND_UNKNOWN	defs.h	/^    emND_UNKNOWN = 0,$/;"	e	enum:_NODE_TYPE
+emND_UnaryExpr	defs.h	/^    emND_UnaryExpr,  \/\/21$/;"	e	enum:_NODE_TYPE
+emND_Unary_Addr	defs.h	/^    emND_Unary_Addr,$/;"	e	enum:_NODE_TYPE
+emND_Unary_Minus	defs.h	/^    emND_Unary_Minus,$/;"	e	enum:_NODE_TYPE
+emND_Unary_Plus	defs.h	/^    emND_Unary_Plus,$/;"	e	enum:_NODE_TYPE
+emND_Unary_Star	defs.h	/^    emND_Unary_Star,$/;"	e	enum:_NODE_TYPE
+emND_VOID	defs.h	/^    emND_VOID,$/;"	e	enum:_NODE_TYPE
+emND_While	defs.h	/^    emND_While,$/;"	e	enum:_NODE_TYPE
+emND_XOR_ASSIGN	defs.h	/^    emND_XOR_ASSIGN,  \/\/70$/;"	e	enum:_NODE_TYPE
+emND_Xor	defs.h	/^    emND_Xor,  \/\/80$/;"	e	enum:_NODE_TYPE
+emTYPE_ARRAY	defs.h	/^    emTYPE_ARRAY,   \/\/34$/;"	e	enum:_TYPE_SPEC
+emTYPE_CHAR	defs.h	/^    emTYPE_CHAR,$/;"	e	enum:_TYPE_SPEC
+emTYPE_INT	defs.h	/^    emTYPE_INT,$/;"	e	enum:_TYPE_SPEC
+emTYPE_POINTER	defs.h	/^    emTYPE_POINTER,$/;"	e	enum:_TYPE_SPEC
+emTYPE_POINTER_Mask	defs.h	/^    emTYPE_POINTER_Mask = 0x20,$/;"	e	enum:_TYPE_SPEC
+emTYPE_SHORT	defs.h	/^    emTYPE_SHORT,$/;"	e	enum:_TYPE_SPEC
+emTYPE_SPEC_Mask	defs.h	/^    emTYPE_SPEC_Mask = 0x10,$/;"	e	enum:_TYPE_SPEC
+emTYPE_STRING	defs.h	/^    emTYPE_STRING,$/;"	e	enum:_TYPE_SPEC
+emTYPE_UNKNOWN	defs.h	/^    emTYPE_UNKNOWN = 0,$/;"	e	enum:_TYPE_SPEC
+emTYPE_VOID	defs.h	/^    emTYPE_VOID,$/;"	e	enum:_TYPE_SPEC
+emit	gen_ir.cpp	/^IR* emit( int op, Reg *r0, Reg *r1, Reg *r2 )$/;"	f
+emit	gen_x86.cpp	/^static void emit( const char *format, ... )$/;"	f	file:
+emit_code	gen_x86.cpp	/^void emit_code( Function *fn )$/;"	f
+emit_data	gen_x86.cpp	/^static void emit_data( Var *globVar )$/;"	f	file:
+emit_ir	gen_x86.cpp	/^void emit_ir( IR *ir, const char *Lend )$/;"	f
+emit_spill_code	regalloc.cpp	/^void emit_spill_code( BB *bb )$/;"	f
+enterBlock	semantic.cpp	/^void enterBlock()$/;"	f
+env	semantic.cpp	/^static std::vector<Stack> env;       \/\/作用域$/;"	v	file:
+error	error.cpp	/^void error( const ERROR_CODE errorCode,  ... )$/;"	f
+error	error.cpp	/^void error( const ERROR_CODE errorCode, int lineno,  ... )$/;"	f
+error	error.cpp	/^void error( const char *format,  ... )$/;"	f
+errorWithLineNo	error.cpp	/^void errorWithLineNo( const ERROR_CODE errorCode, ... )$/;"	f
+exitBlock	semantic.cpp	/^void exitBlock()$/;"	f
+expression_statement	semantic.cpp	/^void expression_statement( ASTnode *n )$/;"	f
+extern_	data.h	5;"	d
+extern_	main.c	3;"	d	file:
+extern_	main.c	5;"	d	file:
+f1	log.c	/^void f1( char c)$/;"	f
+f1	log2.S	/^f1:$/;"	l
+first_column	parse.tab.c	/^  int first_column;$/;"	m	struct:YYLTYPE	file:
+first_column	parse.tab.h	/^  int first_column;$/;"	m	struct:YYLTYPE
+first_line	parse.tab.c	/^  int first_line;$/;"	m	struct:YYLTYPE	file:
+first_line	parse.tab.h	/^  int first_line;$/;"	m	struct:YYLTYPE
+flexSrc	makefile	/^flexSrc := lex.l$/;"	m
+flex_int16_t	lex.yy.c	/^typedef int16_t flex_int16_t;$/;"	t	file:
+flex_int16_t	lex.yy.c	/^typedef short int flex_int16_t;$/;"	t	file:
+flex_int32_t	lex.yy.c	/^typedef int flex_int32_t;$/;"	t	file:
+flex_int32_t	lex.yy.c	/^typedef int32_t flex_int32_t;$/;"	t	file:
+flex_int8_t	lex.yy.c	/^typedef int8_t flex_int8_t;$/;"	t	file:
+flex_int8_t	lex.yy.c	/^typedef signed char flex_int8_t;$/;"	t	file:
+flex_uint16_t	lex.yy.c	/^typedef uint16_t flex_uint16_t;$/;"	t	file:
+flex_uint16_t	lex.yy.c	/^typedef unsigned short int flex_uint16_t;$/;"	t	file:
+flex_uint32_t	lex.yy.c	/^typedef uint32_t flex_uint32_t;$/;"	t	file:
+flex_uint32_t	lex.yy.c	/^typedef unsigned int flex_uint32_t;$/;"	t	file:
+flex_uint8_t	lex.yy.c	/^typedef uint8_t flex_uint8_t;$/;"	t	file:
+flex_uint8_t	lex.yy.c	/^typedef unsigned char flex_uint8_t; $/;"	t	file:
+fn	test/type_test.c	/^void fn( char c )$/;"	f
+fn1	test/arithmetic_test.c	/^int fn1( int a )$/;"	f
+fn3	test/error_test2.c	/^int fn3()$/;"	f
+fn4	test/error_test3.c	/^void fn4()$/;"	f
+fn5	test/error_test3.c	/^void fn5( int a, int b )$/;"	f
+fout	data.h	/^extern_ FILE *fout;$/;"	v
+function_definition	parse.y	/^function_definition : type_specifier declarator compound_statement   $/;"	l
+function_definition	semantic.cpp	/^void function_definition( ASTnode *n )$/;"	f
+gFuncs	defs.h	/^    std::vector<Function*> gFuncs;$/;"	m	struct:_Program
+gVars	defs.h	/^    std::vector<Var*> gVars;$/;"	m	struct:_Program
+gen_assign	gen_ir.cpp	/^Reg* gen_assign( ASTnode *res, ASTnode *expr )$/;"	f
+gen_binop	gen_ir.cpp	/^Reg* gen_binop( int op, ASTnode *n )$/;"	f
+gen_blk_itm_lit	gen_ir.cpp	/^void gen_blk_itm_lit( ASTnode *n )$/;"	f
+gen_compo_stmt	gen_ir.cpp	/^void gen_compo_stmt( ASTnode *n )$/;"	f
+gen_declaration	gen_ir.cpp	/^void gen_declaration( ASTnode *n )$/;"	f
+gen_expr	gen_ir.cpp	/^Reg* gen_expr( ASTnode *n )$/;"	f
+gen_init_decltor_lit	gen_ir.cpp	/^void gen_init_decltor_lit( ASTnode *n )$/;"	f
+gen_ir	gen_ir.cpp	/^void gen_ir()$/;"	f
+gen_load	gen_ir.cpp	/^Reg* gen_load( ASTnode *n )$/;"	f
+gen_lval	gen_ir.cpp	/^Reg* gen_lval( ASTnode *n, bool take_addr )$/;"	f
+gen_post_expr	gen_ir.cpp	/^Reg* gen_post_expr( ASTnode *n )$/;"	f
+gen_stmt	gen_ir.cpp	/^void gen_stmt( ASTnode *n )$/;"	f
+gen_unary_expr	gen_ir.cpp	/^Reg* gen_unary_expr( ASTnode *n )$/;"	f
+gen_x86	gen_x86.cpp	/^void gen_x86( )$/;"	f
+getChar	lex.yy.c	/^int getChar()$/;"	f
+getIdentFromDecltor	gen_ir.cpp	/^ASTnode* getIdentFromDecltor( ASTnode *n, Reg **array_off, int *node_type )$/;"	f
+getIdentifier	lex.yy.c	/^char* getIdentifier()$/;"	f
+getString	lex.yy.c	/^std::string getString()$/;"	f
+get_type	gen_x86.cpp	/^const char* get_type( Type *ty )$/;"	f
+globStr	defs.h	/^    std::string globStr;$/;"	m	struct:_Var
+globVal	defs.h	/^    int globVal;$/;"	m	struct:_Var
+glueASTnode	parse.tab.c	/^ASTnode* glueASTnode( ASTnode* n1, ASTnode *n2 )$/;"	f
+identASTnode	parse.tab.c	/^ASTnode* identASTnode( const char *name )$/;"	f
+idx	defs.h	/^    Reg *idx;  \/\/寄存器的值表示数组元素偏移$/;"	m	struct:_IR
+imm	defs.h	/^    int imm;$/;"	m	struct:_IR
+imm	gen_ir.cpp	/^Reg* imm( int val )$/;"	f
+init	main.c	/^void init()$/;"	f
+initASTNode	parse.tab.c	/^ASTnode* initASTNode()$/;"	f
+initFunc	semantic.cpp	/^Function* initFunc( std::string name, Type *retType, ASTnode *body, $/;"	f
+initVar	semantic.cpp	/^Var* initVar( std::string name, Type *ty, bool is_local)$/;"	f
+init_declarator_list	semantic.cpp	/^void init_declarator_list( Type *ty, ASTnode *n )$/;"	f
+ins_suffix	gen_x86.cpp	/^const char* ins_suffix( int size )$/;"	f
+intArr	log.c	/^int intArr[2][3];$/;"	v
+intArr	test/type_test.c	/^int intArr[2][3];$/;"	v
+int_type	type.cpp	/^Type* int_type()$/;"	f
+is_local	defs.h	/^    bool is_local;$/;"	m	struct:_Var
+is_loclIdent	semantic.cpp	/^static bool is_loclIdent;            \/\/标识当前变量是全局抑或局部$/;"	v	file:
+jmp	gen_ir.cpp	/^IR* jmp( BB *bb )$/;"	f
+label	defs.h	/^    int label;$/;"	m	struct:_BB
+last_column	parse.tab.c	/^  int last_column;$/;"	m	struct:YYLTYPE	file:
+last_column	parse.tab.h	/^  int last_column;$/;"	m	struct:YYLTYPE
+last_line	parse.tab.c	/^  int last_line;$/;"	m	struct:YYLTYPE	file:
+last_line	parse.tab.h	/^  int last_line;$/;"	m	struct:YYLTYPE
+last_use	defs.h	/^    int last_use;$/;"	m	struct:_Reg
+len	defs.h	/^    int len;    \/\/数组总的字节长度、字符串字符个数$/;"	m	struct:_Type
+lex_char_esc	lex.yy.c	/^int lex_char_esc( char *str )$/;"	f
+lhs	defs.h	/^    struct _ASTnode *lhs;$/;"	m	struct:_ASTnode	typeref:struct:_ASTnode::_ASTnode
+lineno	defs.h	/^    int lineno;$/;"	m	struct:_ASTnode
+locVars	semantic.cpp	/^static std::vector<Var*> locVars;    \/\/函数的局部变量$/;"	v	file:
+localVars	defs.h	/^    std::vector<Var*> localVars;$/;"	m	struct:_Function
+lookforFunc	semantic.cpp	/^Function* lookforFunc( std::string name )$/;"	f
+lookforVar	semantic.cpp	/^Var* lookforVar( std::string name, int lineno )$/;"	f
+main	log.S	/^main:$/;"	l
+main	log.c	/^int main()$/;"	f
+main	log2.S	/^main:$/;"	l
+main	log3.S	/^main:$/;"	l
+main	main.c	/^int main( int argc, char *argv[] ) {$/;"	f
+main	makefile	/^main := main$/;"	m
+main	test/arithmetic_test.c	/^int main()$/;"	f
+main	test/array_test.c	/^int main()$/;"	f
+main	test/built_in_func_test.c	/^int main()$/;"	f
+main	test/comparison_test.c	/^int main()$/;"	f
+main	test/error_test.c	/^int main()$/;"	f
+main	test/error_test2.c	/^int main()$/;"	f
+main	test/error_test3.c	/^int main()$/;"	f
+main	test/for_test.c	/^int main()$/;"	f
+main	test/func_test.c	/^void main()$/;"	f
+main	test/if_test.c	/^int main()$/;"	f
+main	test/inc_dec_test.c	/^int main()$/;"	f
+main	test/string_test.c	/^int main()$/;"	f
+main	test/type_test.c	/^int main()$/;"	f
+main	test/while_test.c	/^int main()$/;"	f
+mark_relative_last_use	gen_ir.cpp	/^void mark_relative_last_use( BB *cond_bb, BB *body_bb )$/;"	f
+mid	defs.h	/^    struct _ASTnode *mid;$/;"	m	struct:_ASTnode	typeref:struct:_ASTnode::_ASTnode
+mkTriASTnode	parse.tab.c	/^ASTnode* mkTriASTnode( int op, ASTnode *lhs, ASTnode *mid, ASTnode *rhs )$/;"	f
+mkbinaASTnode	parse.tab.c	/^ASTnode* mkbinaASTnode( int op, ASTnode *lhs, ASTnode *rhs )$/;"	f
+mkquatASTnode	parse.tab.c	/^ASTnode* mkquatASTnode( int op, ASTnode *lhs, ASTnode *mid, ASTnode *rhs, ASTnode *stmt )$/;"	f
+mkunaryASTnode	parse.tab.c	/^ASTnode* mkunaryASTnode( int op, ASTnode *lhs )$/;"	f
+mkzeroASTnode	parse.tab.c	/^ASTnode* mkzeroASTnode( int op )$/;"	f
+name	defs.h	/^    std::string name;  $/;"	m	struct:_IR
+name	defs.h	/^    std::string name;$/;"	m	struct:_ASTnode
+name	defs.h	/^    std::string name;$/;"	m	struct:_Function
+name	defs.h	/^    std::string name;$/;"	m	struct:_Var
+newBB	gen_ir.cpp	/^BB* newBB()$/;"	f
+newIR	gen_ir.cpp	/^IR* newIR( int op )$/;"	f
+newIR	regalloc.cpp	/^IR* newIR( int op )$/;"	f
+newReg	gen_ir.cpp	/^Reg* newReg()$/;"	f
+newType	type.cpp	/^static Type* newType( int type, int size )$/;"	f	file:
+newType	type.cpp	/^static Type* newType( int type, int size, int align )$/;"	f	file:
+nlabel	data.h	/^extern_ int nlabel;$/;"	v
+nreg	data.h	/^extern_ int nreg;$/;"	v
+num_regs	gen_x86.cpp	/^int num_regs = ( sizeof(x86_regs) - sizeof(argregs) ) \/ sizeof(char*);$/;"	v
+off	defs.h	/^    int off;    \/\/for rbp$/;"	m	struct:_Var
+op	defs.h	/^    int op;$/;"	m	struct:_ASTnode
+op	defs.h	/^    int op;$/;"	m	struct:_IR
+opt	optimise.cpp	/^void opt()$/;"	f
+optimize	optimise.cpp	/^void optimize( IR *ir )$/;"	f
+otherSrc	makefile	/^otherSrc := main.c error.cpp type.cpp gen_x86.cpp semantic.cpp regalloc.cpp gen_ir.cpp optimise.cpp$/;"	m
+p	gen_x86.cpp	/^static void p( const char *format, ... )$/;"	f	file:
+para	defs.h	/^    int para;   \/\/-1不是参数，否则表示第几个参数$/;"	m	struct:_Reg
+para	defs.h	/^    int para;   \/\/-1不是参数，否则表示第几个参数$/;"	m	struct:_Var
+para	defs.h	/^    std::vector<ASTnode*> para;  \/\/形参$/;"	m	struct:_Function
+para_idx	semantic.cpp	/^static int para_idx = 0;$/;"	v	file:
+parameter_list	semantic.cpp	/^void parameter_list( ASTnode *n, std::vector<ASTnode*> &v_para )$/;"	f
+parseASTTree	semantic.cpp	/^void parseASTTree( ASTnode *n )$/;"	f
+pointer_type	type.cpp	/^Type* pointer_type( Type *base )$/;"	f
+printint	lib.c	/^void printint( int val )$/;"	f
+printstr	lib.c	/^void printstr( char *s )$/;"	f
+prog	data.h	/^extern_ Program prog;  \/\/保存全局变量和函数$/;"	v
+program_start	parse.y	/^program_start : translation_unit { root = $1; }$/;"	l
+promoted	defs.h	/^    Reg* promoted;   \/\/for opt$/;"	m	struct:_Reg
+promoted	defs.h	/^    Reg* promoted;   \/\/for optimize$/;"	m	struct:_Var
+ptr_to	defs.h	/^    struct _Type *ptr_to;$/;"	m	struct:_Type	typeref:struct:_Type::_Type
+r0	defs.h	/^    Reg *r0;$/;"	m	struct:_IR
+r1	defs.h	/^    Reg *r1;$/;"	m	struct:_IR
+r2	defs.h	/^    Reg *r2;$/;"	m	struct:_IR
+readint	lib.c	/^void readint( int *val )$/;"	f
+recover_regs	gen_x86.cpp	/^void recover_regs()$/;"	f
+relative	defs.h	/^    int relative;    \/\/循环体使用$/;"	m	struct:_IR
+retType	defs.h	/^    Type *retType;$/;"	m	struct:_Function
+rhs	defs.h	/^    struct _ASTnode *rhs;$/;"	m	struct:_ASTnode	typeref:struct:_ASTnode::_ASTnode
+rn	defs.h	/^    int rn;   \/\/real register number$/;"	m	struct:_Reg
+root	data.h	/^extern_ ASTnode *root;$/;"	v
+roundup	gen_x86.cpp	/^int roundup( int off, int align )$/;"	f
+s	test/type_test.c	/^short s = 77;$/;"	v
+s1	log3.S	/^s1:$/;"	l
+s1	test/string_test.c	/^string s1 = "This is a game about guessing a number between 0 to 100.\\n";$/;"	v
+s2	log3.S	/^s2:$/;"	l
+s2	test/string_test.c	/^string s2 = "Please input a number: ";$/;"	v
+s3	log3.S	/^s3:$/;"	l
+s3	test/string_test.c	/^string s3 = "The number you guess is bigger.\\n";$/;"	v
+s4	log3.S	/^s4:$/;"	l
+s4	test/string_test.c	/^string s4 = "The number you guess is smaller.\\n";$/;"	v
+s5	log3.S	/^s5:$/;"	l
+s5	test/string_test.c	/^string s5 = "You win ! ! !\\n";$/;"	v
+s6	log3.S	/^s6:$/;"	l
+s6	test/string_test.c	/^string s6 = "Please input an integer between 0 to 100.\\n";$/;"	v
+save_regs	gen_x86.cpp	/^void save_regs()$/;"	f
+set_last_use	regalloc.cpp	/^void set_last_use(IR *ir, Reg *r, int ic)$/;"	f
+set_reg_num	regalloc.cpp	/^void set_reg_num( std::vector<Reg*> regs )$/;"	f
+set_use_and_def	regalloc.cpp	/^std::vector<Reg*> set_use_and_def( Function *func )$/;"	f
+short	parse.tab.c	229;"	d	file:
+short_type	type.cpp	/^Type* short_type()$/;"	f
+size	defs.h	/^    int size;    \/\/类型字节大小, 如果类型是数组则表示数组的容量大小(经过字节对齐)$/;"	m	struct:_Type
+size	defs.h	/^    int size;  \/\/类型大小$/;"	m	struct:_IR
+spill	defs.h	/^    bool spill;$/;"	m	struct:_Reg
+spill_load	regalloc.cpp	/^void spill_load( std::vector<IR*> v,  Reg *r )$/;"	f
+spill_store	regalloc.cpp	/^void spill_store( std::vector<IR*> v, Reg *r )$/;"	f
+statement	semantic.cpp	/^void statement( ASTnode *n )$/;"	f
+stmt	defs.h	/^    struct _ASTnode *stmt;    \/\/ for(;;) stmt$/;"	m	struct:_ASTnode	typeref:struct:_ASTnode::_ASTnode
+str	defs.h	/^    std::string str;$/;"	m	struct:_ASTnode
+strASTnode	parse.tab.c	/^ASTnode* strASTnode( std::string str )$/;"	f
+string_type	type.cpp	/^Type* string_type( )$/;"	f
+suffix	gen_x86.cpp	/^const char *suffix[] = {"b", "w", "l", "q"};$/;"	v
+tabHeader	makefile	/^tabHeader := parse.tab.h$/;"	m
+tabSrc	makefile	/^tabSrc := parse.tab.c$/;"	m
+take_addr	defs.h	/^    bool take_addr;   \/\/优化$/;"	m	struct:_Var
+test1	test/func_test.c	/^int test1( int a )$/;"	f
+test2	test/func_test.c	/^int test2( int a )$/;"	f
+test3	test/func_test.c	/^int test3( int a )$/;"	f
+testAns	makefile	/^testAns := $(addsuffix .ans,$(testFile))$/;"	m
+testFile	makefile	/^testFile := $(addprefix $(testdir)\/,$(testFile) )$/;"	m
+testFile	makefile	/^testFile := arithmetic_test built_in_func_test comparison_test for_test func_test if_test inc_dec_test while_test array_test type_test$/;"	m
+testSrc	makefile	/^testSrc := $(addsuffix .c,$(testFile))$/;"	m
+testdir	makefile	/^testdir := .\/test$/;"	m
+ty	defs.h	/^    int ty;$/;"	m	struct:_Type
+type	defs.h	/^    Type *type;$/;"	m	struct:_ASTnode
+type	defs.h	/^    Type *type;$/;"	m	struct:_Var
+type_specifier	semantic.cpp	/^Type* type_specifier( ASTnode *n )$/;"	f
+unput	lex.yy.c	200;"	d	file:
+val	defs.h	/^    int val;$/;"	m	struct:_ASTnode
+var	defs.h	/^    Var *var;    $/;"	m	struct:_Reg
+var	defs.h	/^    Var *var;$/;"	m	struct:_ASTnode
+var	defs.h	/^    Var *var;$/;"	m	struct:_IR
+vars	defs.h	/^    std::map<std::string, Var*> vars;$/;"	m	struct:_Stack
+vec_ir	defs.h	/^    std::vector<IR*> vec_ir;$/;"	m	struct:_BB
+vn	defs.h	/^    int vn;   \/\/virtual register number$/;"	m	struct:_Reg
+void_type	type.cpp	/^Type* void_type( )$/;"	f
+x86_regs	gen_x86.cpp	/^const char* x86_regs[] = $/;"	v
+x86_regs16	gen_x86.cpp	/^const char* x86_regs16[] = $/;"	v
+x86_regs32	gen_x86.cpp	/^const char* x86_regs32[] = $/;"	v
+x86_regs8	gen_x86.cpp	/^const char* x86_regs8[] = $/;"	v
+yy_accept	lex.yy.c	/^static const flex_int16_t yy_accept[133] =$/;"	v	file:
+yy_at_bol	lex.yy.c	/^	int yy_at_bol;$/;"	m	struct:yy_buffer_state	file:
+yy_base	lex.yy.c	/^static const flex_int16_t yy_base[140] =$/;"	v	file:
+yy_bs_column	lex.yy.c	/^    int yy_bs_column; \/**< The column count. *\/$/;"	m	struct:yy_buffer_state	file:
+yy_bs_lineno	lex.yy.c	/^    int yy_bs_lineno; \/**< The line count. *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_pos	lex.yy.c	/^	char *yy_buf_pos;		\/* current position in input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_size	lex.yy.c	/^	int yy_buf_size;$/;"	m	struct:yy_buffer_state	file:
+yy_buffer_stack	lex.yy.c	/^static YY_BUFFER_STATE * yy_buffer_stack = NULL; \/**< Stack as an array. *\/$/;"	v	file:
+yy_buffer_stack_max	lex.yy.c	/^static size_t yy_buffer_stack_max = 0; \/**< capacity of stack. *\/$/;"	v	file:
+yy_buffer_stack_top	lex.yy.c	/^static size_t yy_buffer_stack_top = 0; \/**< index of top of stack. *\/$/;"	v	file:
+yy_buffer_state	lex.yy.c	/^struct yy_buffer_state$/;"	s	file:
+yy_buffer_status	lex.yy.c	/^	int yy_buffer_status;$/;"	m	struct:yy_buffer_state	file:
+yy_c_buf_p	lex.yy.c	/^static char *yy_c_buf_p = NULL;$/;"	v	file:
+yy_ch_buf	lex.yy.c	/^	char *yy_ch_buf;		\/* input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_chk	lex.yy.c	/^static const flex_int16_t yy_chk[301] =$/;"	v	file:
+yy_create_buffer	lex.yy.c	/^    YY_BUFFER_STATE yy_create_buffer  (FILE * file, int  size )$/;"	f
+yy_def	lex.yy.c	/^static const flex_int16_t yy_def[140] =$/;"	v	file:
+yy_delete_buffer	lex.yy.c	/^    void yy_delete_buffer (YY_BUFFER_STATE  b )$/;"	f
+yy_did_buffer_switch_on_eof	lex.yy.c	/^static int yy_did_buffer_switch_on_eof;$/;"	v	file:
+yy_ec	lex.yy.c	/^static const YY_CHAR yy_ec[256] =$/;"	v	file:
+yy_fatal_error	lex.yy.c	/^static void yynoreturn yy_fatal_error (const char* msg )$/;"	f	file:
+yy_fill_buffer	lex.yy.c	/^	int yy_fill_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_flex_debug	lex.yy.c	/^int yy_flex_debug = 0;$/;"	v
+yy_flex_strlen	lex.yy.c	/^static int yy_flex_strlen (const char * s )$/;"	f	file:
+yy_flex_strncpy	lex.yy.c	/^static void yy_flex_strncpy (char* s1, const char * s2, int n )$/;"	f	file:
+yy_flush_buffer	lex.yy.c	/^    void yy_flush_buffer (YY_BUFFER_STATE  b )$/;"	f
+yy_get_next_buffer	lex.yy.c	/^static int yy_get_next_buffer (void)$/;"	f	file:
+yy_get_previous_state	lex.yy.c	/^    static yy_state_type yy_get_previous_state (void)$/;"	f	file:
+yy_hold_char	lex.yy.c	/^static char yy_hold_char;$/;"	v	file:
+yy_init	lex.yy.c	/^static int yy_init = 0;		\/* whether we need to initialize *\/$/;"	v	file:
+yy_init_buffer	lex.yy.c	/^    static void yy_init_buffer  (YY_BUFFER_STATE  b, FILE * file )$/;"	f	file:
+yy_init_globals	lex.yy.c	/^static int yy_init_globals (void)$/;"	f	file:
+yy_input_file	lex.yy.c	/^	FILE *yy_input_file;$/;"	m	struct:yy_buffer_state	file:
+yy_is_interactive	lex.yy.c	/^	int yy_is_interactive;$/;"	m	struct:yy_buffer_state	file:
+yy_is_our_buffer	lex.yy.c	/^	int yy_is_our_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_last_accepting_cpos	lex.yy.c	/^static char *yy_last_accepting_cpos;$/;"	v	file:
+yy_last_accepting_state	lex.yy.c	/^static yy_state_type yy_last_accepting_state;$/;"	v	file:
+yy_load_buffer_state	lex.yy.c	/^static void yy_load_buffer_state  (void)$/;"	f	file:
+yy_location_print_	parse.tab.c	/^yy_location_print_ (FILE *yyo, YYLTYPE const * const yylocp)$/;"	f	file:
+yy_meta	lex.yy.c	/^static const YY_CHAR yy_meta[54] =$/;"	v	file:
+yy_n_chars	lex.yy.c	/^	int yy_n_chars;$/;"	m	struct:yy_buffer_state	file:
+yy_n_chars	lex.yy.c	/^static int yy_n_chars;		\/* number of characters read into yy_ch_buf *\/$/;"	v	file:
+yy_new_buffer	lex.yy.c	322;"	d	file:
+yy_nxt	lex.yy.c	/^	flex_int32_t yy_nxt;$/;"	m	struct:yy_trans_info	file:
+yy_nxt	lex.yy.c	/^static const flex_int16_t yy_nxt[301] =$/;"	v	file:
+yy_reduce_print	parse.tab.c	/^yy_reduce_print (yytype_int16 *yyssp, YYSTYPE *yyvsp, YYLTYPE *yylsp, int yyrule)$/;"	f	file:
+yy_rule_can_match_eol	lex.yy.c	/^static const flex_int32_t yy_rule_can_match_eol[61] =$/;"	v	file:
+yy_scan_buffer	lex.yy.c	/^YY_BUFFER_STATE yy_scan_buffer  (char * base, yy_size_t  size )$/;"	f
+yy_scan_bytes	lex.yy.c	/^YY_BUFFER_STATE yy_scan_bytes  (const char * yybytes, int  _yybytes_len )$/;"	f
+yy_scan_string	lex.yy.c	/^YY_BUFFER_STATE yy_scan_string (const char * yystr )$/;"	f
+yy_set_bol	lex.yy.c	332;"	d	file:
+yy_set_interactive	lex.yy.c	323;"	d	file:
+yy_size_t	lex.yy.c	/^typedef size_t yy_size_t;$/;"	t	file:
+yy_stack_print	parse.tab.c	/^yy_stack_print (yytype_int16 *yybottom, yytype_int16 *yytop)$/;"	f	file:
+yy_start	lex.yy.c	/^static int yy_start = 0;	\/* start state number *\/$/;"	v	file:
+yy_state_type	lex.yy.c	/^typedef int yy_state_type;$/;"	t	file:
+yy_switch_to_buffer	lex.yy.c	/^    void yy_switch_to_buffer  (YY_BUFFER_STATE  new_buffer )$/;"	f
+yy_symbol_print	parse.tab.c	/^yy_symbol_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep, YYLTYPE const * const yylocationp)$/;"	f	file:
+yy_symbol_value_print	parse.tab.c	/^yy_symbol_value_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep, YYLTYPE const * const yylocationp)$/;"	f	file:
+yy_trans_info	lex.yy.c	/^struct yy_trans_info$/;"	s	file:
+yy_try_NUL_trans	lex.yy.c	/^    static yy_state_type yy_try_NUL_trans  (yy_state_type yy_current_state )$/;"	f	file:
+yy_verify	lex.yy.c	/^	flex_int32_t yy_verify;$/;"	m	struct:yy_trans_info	file:
+yyalloc	lex.yy.c	/^void *yyalloc (yy_size_t  size )$/;"	f
+yyalloc	parse.tab.c	/^union yyalloc$/;"	u	file:
+yychar	parse.tab.c	/^int yychar;$/;"	v
+yycheck	parse.tab.c	/^static const yytype_int16 yycheck[] =$/;"	v	file:
+yyclearin	parse.tab.c	828;"	d	file:
+yycolumn	lex.yy.c	/^int yycolumn = 0;$/;"	v
+yyconst	lex.yy.c	97;"	d	file:
+yydebug	parse.tab.c	/^int yydebug;$/;"	v
+yydefact	parse.tab.c	/^static const yytype_uint8 yydefact[] =$/;"	v	file:
+yydefgoto	parse.tab.c	/^static const yytype_int16 yydefgoto[] =$/;"	v	file:
+yydestruct	parse.tab.c	/^yydestruct (const char *yymsg, int yytype, YYSTYPE *yyvaluep, YYLTYPE *yylocationp)$/;"	f	file:
+yyensure_buffer_stack	lex.yy.c	/^static void yyensure_buffer_stack (void)$/;"	f	file:
+yyerrok	parse.tab.c	827;"	d	file:
+yyerror	parse.tab.c	/^void yyerror( const char *format, ... )$/;"	f
+yyfree	lex.yy.c	/^void yyfree (void * ptr )$/;"	f
+yyget_debug	lex.yy.c	/^int yyget_debug  (void)$/;"	f
+yyget_in	lex.yy.c	/^FILE *yyget_in  (void)$/;"	f
+yyget_leng	lex.yy.c	/^int yyget_leng  (void)$/;"	f
+yyget_lineno	lex.yy.c	/^int yyget_lineno  (void)$/;"	f
+yyget_out	lex.yy.c	/^FILE *yyget_out  (void)$/;"	f
+yyget_text	lex.yy.c	/^char *yyget_text  (void)$/;"	f
+yyin	lex.yy.c	/^FILE *yyin = NULL, *yyout = NULL;$/;"	v
+yyinput	lex.yy.c	/^    static int yyinput (void)$/;"	f	file:
+yyleng	lex.yy.c	/^int yyleng;$/;"	v
+yyless	lex.yy.c	188;"	d	file:
+yyless	lex.yy.c	2027;"	d	file:
+yyless	lex.yy.c	2028;"	d	file:
+yylex_destroy	lex.yy.c	/^int yylex_destroy  (void)$/;"	f
+yylineno	lex.yy.c	/^int yylineno = 1;$/;"	v
+yylloc	parse.tab.c	/^YYLTYPE yylloc$/;"	v
+yyls_alloc	parse.tab.c	/^  YYLTYPE yyls_alloc;$/;"	m	union:yyalloc	file:
+yylval	parse.tab.c	/^YYSTYPE yylval;$/;"	v
+yymore	lex.yy.c	576;"	d	file:
+yynerrs	parse.tab.c	/^int yynerrs;$/;"	v
+yynoreturn	lex.yy.c	100;"	d	file:
+yynoreturn	lex.yy.c	102;"	d	file:
+yyout	lex.yy.c	/^FILE *yyin = NULL, *yyout = NULL;$/;"	v
+yypact	parse.tab.c	/^static const yytype_int16 yypact[] =$/;"	v	file:
+yypact_value_is_default	parse.tab.c	595;"	d	file:
+yyparse	parse.tab.c	/^yyparse (void)$/;"	f
+yypgoto	parse.tab.c	/^static const yytype_int16 yypgoto[] =$/;"	v	file:
+yypop_buffer_state	lex.yy.c	/^void yypop_buffer_state (void)$/;"	f
+yypush_buffer_state	lex.yy.c	/^void yypush_buffer_state (YY_BUFFER_STATE new_buffer )$/;"	f
+yyr1	parse.tab.c	/^static const yytype_uint8 yyr1[] =$/;"	v	file:
+yyr2	parse.tab.c	/^static const yytype_uint8 yyr2[] =$/;"	v	file:
+yyrealloc	lex.yy.c	/^void *yyrealloc  (void * ptr, yy_size_t  size )$/;"	f
+yyrestart	lex.yy.c	/^    void yyrestart  (FILE * input_file )$/;"	f
+yyrline	parse.tab.c	/^static const yytype_uint16 yyrline[] =$/;"	v	file:
+yyset_debug	lex.yy.c	/^void yyset_debug (int  _bdebug )$/;"	f
+yyset_in	lex.yy.c	/^void yyset_in (FILE *  _in_str )$/;"	f
+yyset_lineno	lex.yy.c	/^void yyset_lineno (int  _line_number )$/;"	f
+yyset_out	lex.yy.c	/^void yyset_out (FILE *  _out_str )$/;"	f
+yyss_alloc	parse.tab.c	/^  yytype_int16 yyss_alloc;$/;"	m	union:yyalloc	file:
+yystos	parse.tab.c	/^static const yytype_uint8 yystos[] =$/;"	v	file:
+yystpcpy	parse.tab.c	/^yystpcpy (char *yydest, const char *yysrc)$/;"	f	file:
+yystpcpy	parse.tab.c	1097;"	d	file:
+yystring	lex.yy.c	/^std::string yystring;$/;"	v
+yystrlen	parse.tab.c	/^yystrlen (const char *yystr)$/;"	f	file:
+yystrlen	parse.tab.c	1081;"	d	file:
+yysyntax_error	parse.tab.c	/^yysyntax_error (YYSIZE_T *yymsg_alloc, char **yymsg,$/;"	f	file:
+yytable	parse.tab.c	/^static const yytype_int16 yytable[] =$/;"	v	file:
+yytable_value_is_error	parse.tab.c	600;"	d	file:
+yyterminate	lex.yy.c	749;"	d	file:
+yytext	lex.yy.c	/^char *yytext;$/;"	v
+yytext_ptr	lex.yy.c	358;"	d	file:
+yytext_ptr	lex.yy.c	360;"	d	file:
+yytname	parse.tab.c	/^static const char *const yytname[] =$/;"	v	file:
+yytnamerr	parse.tab.c	/^yytnamerr (char *yyres, const char *yystr)$/;"	f	file:
+yytokentype	parse.tab.c	/^  enum yytokentype$/;"	g	file:
+yytokentype	parse.tab.h	/^  enum yytokentype$/;"	g
+yytoknum	parse.tab.c	/^static const yytype_uint16 yytoknum[] =$/;"	v	file:
+yytranslate	parse.tab.c	/^static const yytype_uint8 yytranslate[] =$/;"	v	file:
+yytype_int16	parse.tab.c	/^typedef YYTYPE_INT16 yytype_int16;$/;"	t	file:
+yytype_int16	parse.tab.c	/^typedef short int yytype_int16;$/;"	t	file:
+yytype_int8	parse.tab.c	/^typedef YYTYPE_INT8 yytype_int8;$/;"	t	file:
+yytype_int8	parse.tab.c	/^typedef signed char yytype_int8;$/;"	t	file:
+yytype_uint16	parse.tab.c	/^typedef YYTYPE_UINT16 yytype_uint16;$/;"	t	file:
+yytype_uint16	parse.tab.c	/^typedef unsigned short int yytype_uint16;$/;"	t	file:
+yytype_uint8	parse.tab.c	/^typedef YYTYPE_UINT8 yytype_uint8;$/;"	t	file:
+yytype_uint8	parse.tab.c	/^typedef unsigned char yytype_uint8;$/;"	t	file:
+yyunput	lex.yy.c	/^    static void yyunput (int c, char * yy_bp )$/;"	f	file:
+yyvs_alloc	parse.tab.c	/^  YYSTYPE yyvs_alloc;$/;"	m	union:yyalloc	file:
+yywrap	lex.yy.c	345;"	d	file:
