@@ -1,0 +1,7 @@
+//test subc
+int main(){
+    int a;
+    a = 10;
+    int c=a-2;
+    printint(c);
+}
